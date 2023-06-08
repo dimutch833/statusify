@@ -11,6 +11,13 @@ Libs:
  - express
  - request
 
+## To run
+
+```
+> npm i
+
+> npm start
+```
 /login to login  to your acount
 
 /refresh_token to refresh token
